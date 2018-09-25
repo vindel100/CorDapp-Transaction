@@ -1,10 +1,6 @@
 ![Corda](https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png)
 
-# Example CorDapp
-
-Welcome to the example CorDapp. This README is an abridged version of 
-the [CorDapp tutorial](http://docs.corda.net/tutorial-cordapp.html) found on
-the Corda docsite.
+# CorDapp Transaction
 
 **Instead, if you are interested in exploring the Corda codebase itself,
 contributing to the core Corda platform or viewing and running sample
